@@ -5,3 +5,5 @@
 
 # Библиотеки
 `pandas`, `matplotlib`, `numpy`, `math`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/films/films.ipynb)

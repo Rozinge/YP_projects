@@ -5,3 +5,5 @@
 
 # Библиотеки
 `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/marketing_metrics/marketing_metrics.ipynb)

@@ -3,3 +3,5 @@
 
 # Библиотеки
 `pandas`, `sqlalchemy`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/yandex_zen/yandex_zen.ipynb)

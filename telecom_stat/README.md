@@ -3,3 +3,5 @@
 
 # Библиотеки
 `pandas`, `numpy`, `math`, `scipy`, `matplotlib`, `seaborn`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/telecom_stat/telecom_stat.ipynb)

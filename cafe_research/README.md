@@ -3,3 +3,5 @@
 
 # Библиотеки
 `pandas`, `matplotlib`, `seaborn`, `plotly`, `numpy`, `math`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/cafe_research/cafe_research.ipynb)

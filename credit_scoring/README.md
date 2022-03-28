@@ -5,3 +5,5 @@
 
 # Библиотеки
  `pandas`, `pymystem3`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/credit_scoring/credit_scoring.ipynb)

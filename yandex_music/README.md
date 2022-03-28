@@ -7,3 +7,5 @@
 
 # Библиотеки 
 `pandas`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/yandex_music/yandex_music.ipynb)

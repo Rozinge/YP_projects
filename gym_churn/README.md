@@ -9,3 +9,5 @@
 
 # Библиотеки
 `pandas`, `numpy`, `math`, `scipy`, `matplotlib`, `seaborn`, `sklearn`
+
+# [Проект](https://nbviewer.org/github/Rozinge/YP_projects/blob/main/gym_churn/gym_churn.ipynb)
